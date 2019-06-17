@@ -1,4 +1,7 @@
-# chuanjiabao-manage
+## 一个基本的基于vue-cli的前端架构（demo）
+
+
+## chuanjiabao-manage
 
 ## Project setup
 ```
